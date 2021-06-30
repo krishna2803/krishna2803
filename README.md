@@ -10,9 +10,10 @@ I'm a beginner at web development, currently learning React, Django and SQL.
 <!-- <p align="left"> <img src=https://komarev.com/ghpvc/?username=krishna2803 alt=krishna-profile-views/> </p> -->
 <!-- <p align="center"><img src=https://github-readme-stats.vercel.app/api?username=krishna2803&show_icons=true alt=krishna-github-stats /> </p> -->
 
-### Contacts
-<!-- You can find me on discord  -->
-
+<h3>Connect with me</h3>
+<a href='https://discordapp.com/users/503934699631017984'>
+<img  src='./assets/discord-seeklogo.com.svg' align='center' alt='discord-og-logo' width=30px height=(1.144*30)px/>
+</a>
 
 
 <!--
