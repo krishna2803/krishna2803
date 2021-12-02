@@ -1,10 +1,9 @@
 <h1 align='center'>Hey! I'm Krishna</h1>
 
-### 💁🏼 About Me
-&ensp;&ensp;I'm Krishna Pandey. I'm a student and self-taught programmer from India. I've been coding since 2017.
+<h3 align='center'>CURRENTLY INACTIVE!</h3>
 
-### 👨‍💻 Skills
-&ensp;&ensp;I'm proficient in Java, C, C++ and Python and beginner at web development, currently learning React, Django and SQL.
+### 💁🏼 About Me
+&ensp;&ensp;I'm Krishna Pandey. Student and self-taught programmer.
 
 <!-- ### My GitHub Stats -->
 <!-- <p align="left"> <img src=https://komarev.com/ghpvc/?username=krishna2803 alt=krishna-profile-views/> </p> -->
