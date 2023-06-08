@@ -1,9 +1,7 @@
-<!-- <h1 align='center'>Hey! I'm Krishna</h1> -->
+<h1 align='center'>Hey! I'm Krishna</h1>
 
-<h3 align='center'>CURRENTLY INACTIVE!</h3>
-
-<!-- ### 💁🏼 About Me -->
-<!-- &ensp;&ensp;I'm Krishna Pandey. Student and self-taught programmer. -->
+### 👨🏼‍💻 About Me
+&ensp;&ensp;I'm Krishna. Student and self-taught programmer.
 
 <!-- ### My GitHub Stats -->
 <!-- <p align="left"> <img src=https://komarev.com/ghpvc/?username=krishna2803 alt=krishna-profile-views/> </p> -->
