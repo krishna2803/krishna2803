@@ -3,9 +3,9 @@
 ### 👨🏼‍💻 About Me
 &ensp;&ensp;I'm Krishna. Student and self-taught programmer.
 
-<!-- ### My GitHub Stats -->
-<!-- <p align="left"> <img src=https://komarev.com/ghpvc/?username=krishna2803 alt=krishna-profile-views/> </p> -->
-<!-- <p align="center"><img src=https://github-readme-stats.vercel.app/api?username=krishna2803&show_icons=true alt=krishna-github-stats /> </p> -->
+### My GitHub Stats
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=krishna2803 alt=krishna-profile-views/> </p>
+<p align="center"><img src=https://github-readme-stats.vercel.app/api?username=krishna2803&show_icons=true alt=krishna-github-stats /> </p>
 
 <h3>📫 You can find me on</h3>
 &ensp;&ensp;
