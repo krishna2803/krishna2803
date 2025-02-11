@@ -1,7 +1,7 @@
 <h1 align='center'>Hey! I'm Krishna</h1>
 
 ### About Me
-&ensp;&ensp;I'm Krishna. A student at IIT-Roorkee. I do C, C++, C#, Rust, Golang, Python and also web-dev stuff.  
+&ensp;&ensp;I'm a student at IIT-Roorkee. I do C, C++, C#, Rust, Golang, Python and also web-dev stuff.  
 
 ### Interests
 - Systems Programming
