@@ -18,7 +18,7 @@
 ![](https://komarev.com/ghpvc/?username=krishna2803&style=flat-square&abbreviated=true)
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna2803&show_icons=true&theme=gruvbox&locale=en&hide_border=true&hide=javascript,ejs,html,csharp,css,dart&layout=compact" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna2803&show_icons=true&theme=gruvbox&locale=en&hide_border=true&hide=javascript,ejs,html,csharp,css,dart,jupyter%20notebook&layout=compact" 
        alt="Top Languages" 
        style="flex: 1; min-width: 300px; max-width: 48%;"/>
   
