@@ -2,13 +2,6 @@ Student at IIT-Roorkee. I do C, C++, C#, Rust, Java, Golang, Python and also web
 
 ![](https://komarev.com/ghpvc/?username=krishna2803&style=flat-square&abbreviated=true)
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna2803&show_icons=true&theme=gruvbox&locale=en&hide_border=true&hide=javascript,ejs,html,csharp,css,dart,jupyter%20notebook&layout=compact" 
-       alt="Top Languages"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=krishna2803&show_icons=true&theme=gruvbox&locale=en&hide_border=true" 
-       alt="GitHub Stats"/>
-
 #### contacts:
 <a href='https://discordapp.com/users/503934699631017984'>
 <img src='./assets/discord-seeklogo.com.svg' align='center' alt='discord-og-logo' width=40px />
