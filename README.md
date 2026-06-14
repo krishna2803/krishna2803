@@ -1,6 +1,9 @@
+### Note: I will be migrating to [codeberg.org/krishna2803](https://codeberg.org/krishna2803). Please visit there for my newer projects :)
+
 Student at IIT-Roorkee. I do C, C++, C#, Rust, Java, Golang, Python and also web-dev stuff. Interested in systems programming, reverse engineering and cryptography.
 
 ![](https://komarev.com/ghpvc/?username=krishna2803&style=flat-square&abbreviated=true)
+
 
 #### contacts:
 <a href='https://discordapp.com/users/503934699631017984'>
